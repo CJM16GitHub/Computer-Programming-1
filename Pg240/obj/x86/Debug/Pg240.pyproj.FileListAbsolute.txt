@@ -1,0 +1,14 @@
+C:\Users\malterer.c\Desktop\Programming-1\Pg240\obj\x86\Debug\Pg240.pyprojResolveAssemblyReference.cache
+C:\Users\malterer.c\Desktop\Programming-1\Pg240\obj\x86\Debug\Pg240.MainForm.resources
+C:\Users\malterer.c\Desktop\Programming-1\Pg240\obj\x86\Debug\Pg240.pyproj.GenerateResource.Cache
+C:\Users\malterer.c\Desktop\Programming-1\Pg240\bin\Debug\Pg240.exe.config
+C:\Users\malterer.c\Desktop\Programming-1\Pg240\bin\Debug\Pg240.exe
+C:\Users\malterer.c\Desktop\Programming-1\Pg240\bin\Debug\Pg240.dll
+C:\Users\malterer.c\Desktop\Programming-1\Pg240\bin\Debug\IronPython.dll
+C:\Users\malterer.c\Desktop\Programming-1\Pg240\bin\Debug\IronPython.Modules.dll
+C:\Users\malterer.c\Desktop\Programming-1\Pg240\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\malterer.c\Desktop\Programming-1\Pg240\bin\Debug\Microsoft.Scripting.dll
+C:\Users\malterer.c\Desktop\Programming-1\Pg240\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\malterer.c\Desktop\Programming-1\Pg240\bin\Debug\IronPython.xml
+C:\Users\malterer.c\Desktop\Programming-1\Pg240\bin\Debug\IronPython.Modules.xml
+C:\Users\malterer.c\Desktop\Programming-1\Pg240\obj\x86\Debug\Pg240.exe

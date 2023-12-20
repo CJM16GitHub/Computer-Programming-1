@@ -1,0 +1,14 @@
+C:\Users\malterer.c\Desktop\Programming-1\Pg247\bin\Debug\Pg247.exe.config
+C:\Users\malterer.c\Desktop\Programming-1\Pg247\bin\Debug\Pg247.exe
+C:\Users\malterer.c\Desktop\Programming-1\Pg247\bin\Debug\Pg247.dll
+C:\Users\malterer.c\Desktop\Programming-1\Pg247\bin\Debug\IronPython.dll
+C:\Users\malterer.c\Desktop\Programming-1\Pg247\bin\Debug\IronPython.Modules.dll
+C:\Users\malterer.c\Desktop\Programming-1\Pg247\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\malterer.c\Desktop\Programming-1\Pg247\bin\Debug\Microsoft.Scripting.dll
+C:\Users\malterer.c\Desktop\Programming-1\Pg247\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\malterer.c\Desktop\Programming-1\Pg247\bin\Debug\IronPython.xml
+C:\Users\malterer.c\Desktop\Programming-1\Pg247\bin\Debug\IronPython.Modules.xml
+C:\Users\malterer.c\Desktop\Programming-1\Pg247\obj\x86\Debug\Pg247.pyprojResolveAssemblyReference.cache
+C:\Users\malterer.c\Desktop\Programming-1\Pg247\obj\x86\Debug\Pg247.MainForm.resources
+C:\Users\malterer.c\Desktop\Programming-1\Pg247\obj\x86\Debug\Pg247.pyproj.GenerateResource.Cache
+C:\Users\malterer.c\Desktop\Programming-1\Pg247\obj\x86\Debug\Pg247.exe

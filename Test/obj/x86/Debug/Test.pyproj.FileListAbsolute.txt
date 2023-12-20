@@ -1,0 +1,12 @@
+C:\Users\malterer.c\Desktop\Programming-1\Test\bin\Debug\Test.exe.config
+C:\Users\malterer.c\Desktop\Programming-1\Test\bin\Debug\Test.exe
+C:\Users\malterer.c\Desktop\Programming-1\Test\bin\Debug\Test.dll
+C:\Users\malterer.c\Desktop\Programming-1\Test\bin\Debug\IronPython.dll
+C:\Users\malterer.c\Desktop\Programming-1\Test\bin\Debug\IronPython.Modules.dll
+C:\Users\malterer.c\Desktop\Programming-1\Test\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\malterer.c\Desktop\Programming-1\Test\bin\Debug\Microsoft.Scripting.dll
+C:\Users\malterer.c\Desktop\Programming-1\Test\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\malterer.c\Desktop\Programming-1\Test\bin\Debug\IronPython.xml
+C:\Users\malterer.c\Desktop\Programming-1\Test\bin\Debug\IronPython.Modules.xml
+C:\Users\malterer.c\Desktop\Programming-1\Test\obj\x86\Debug\Test.pyprojResolveAssemblyReference.cache
+C:\Users\malterer.c\Desktop\Programming-1\Test\obj\x86\Debug\Test.exe

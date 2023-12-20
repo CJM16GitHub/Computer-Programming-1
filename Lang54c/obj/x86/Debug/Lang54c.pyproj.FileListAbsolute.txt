@@ -1,0 +1,14 @@
+C:\Users\malterer.c\Desktop\Programming-1\Lang54c\bin\Debug\Lang54c.exe.config
+C:\Users\malterer.c\Desktop\Programming-1\Lang54c\bin\Debug\Lang54c.exe
+C:\Users\malterer.c\Desktop\Programming-1\Lang54c\bin\Debug\Lang54c.dll
+C:\Users\malterer.c\Desktop\Programming-1\Lang54c\bin\Debug\IronPython.dll
+C:\Users\malterer.c\Desktop\Programming-1\Lang54c\bin\Debug\IronPython.Modules.dll
+C:\Users\malterer.c\Desktop\Programming-1\Lang54c\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\malterer.c\Desktop\Programming-1\Lang54c\bin\Debug\Microsoft.Scripting.dll
+C:\Users\malterer.c\Desktop\Programming-1\Lang54c\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\malterer.c\Desktop\Programming-1\Lang54c\bin\Debug\IronPython.xml
+C:\Users\malterer.c\Desktop\Programming-1\Lang54c\bin\Debug\IronPython.Modules.xml
+C:\Users\malterer.c\Desktop\Programming-1\Lang54c\obj\x86\Debug\Lang54c.pyprojResolveAssemblyReference.cache
+C:\Users\malterer.c\Desktop\Programming-1\Lang54c\obj\x86\Debug\Lang54c.MainForm.resources
+C:\Users\malterer.c\Desktop\Programming-1\Lang54c\obj\x86\Debug\Lang54c.pyproj.GenerateResource.Cache
+C:\Users\malterer.c\Desktop\Programming-1\Lang54c\obj\x86\Debug\Lang54c.exe

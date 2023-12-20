@@ -1,0 +1,14 @@
+C:\Users\malterer.c\Desktop\Programming-1\Prog76a\bin\Debug\Prog76a.exe.config
+C:\Users\malterer.c\Desktop\Programming-1\Prog76a\bin\Debug\Prog76a.exe
+C:\Users\malterer.c\Desktop\Programming-1\Prog76a\bin\Debug\Prog76a.dll
+C:\Users\malterer.c\Desktop\Programming-1\Prog76a\bin\Debug\IronPython.dll
+C:\Users\malterer.c\Desktop\Programming-1\Prog76a\bin\Debug\IronPython.Modules.dll
+C:\Users\malterer.c\Desktop\Programming-1\Prog76a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\malterer.c\Desktop\Programming-1\Prog76a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\malterer.c\Desktop\Programming-1\Prog76a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\malterer.c\Desktop\Programming-1\Prog76a\bin\Debug\IronPython.xml
+C:\Users\malterer.c\Desktop\Programming-1\Prog76a\bin\Debug\IronPython.Modules.xml
+C:\Users\malterer.c\Desktop\Programming-1\Prog76a\obj\x86\Debug\Prog76a.pyprojResolveAssemblyReference.cache
+C:\Users\malterer.c\Desktop\Programming-1\Prog76a\obj\x86\Debug\Prog76a.MainForm.resources
+C:\Users\malterer.c\Desktop\Programming-1\Prog76a\obj\x86\Debug\Prog76a.pyproj.GenerateResource.Cache
+C:\Users\malterer.c\Desktop\Programming-1\Prog76a\obj\x86\Debug\Prog76a.exe
